@@ -6,9 +6,13 @@ Grupo:H
 Integrantes:
 
 -Darrin Jaimes Noboa
+
 -Harley Bodero
+
 -Leyton SanLucas
+
 -César Naranjo
+
 -Erick Palacios
 
 ## TABLA ÚNICA DE ANÁLISIS DE REQUISITOS Y PRUEBAS
