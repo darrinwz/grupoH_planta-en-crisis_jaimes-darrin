@@ -15,6 +15,10 @@ Integrantes:
 
 -Erick Palacios
 
+Introducción
+
+Planta en Crisis: Operación Números es un videojuego educativo desarrollado en Roblox para que los estudiantes de primer semestre de Ingeniería de Software practiquen matemáticas de forma colaborativa. La partida ocurre dentro de una planta industrial dividida en seis zonas, una por equipo, con cuatro estaciones: materia prima, producción, revisión de calidad y despacho. Para avanzar, cada equipo resuelve ejercicios de fracciones, ecuaciones, inecuaciones y derivadas, mientras enfrenta imprevistos como tuberías rotas o cortes de luz. Gana el equipo que complete el reto final correctamente en el menor tiempo. El juego funciona en computadora, celular y gafas Meta Quest.
+
 ## TABLA ÚNICA DE ANÁLISIS DE REQUISITOS Y PRUEBAS
 
 | ID | Tipo de requisito | Descripción del requisito | Caso de prueba propuesto | Resultado esperado |
